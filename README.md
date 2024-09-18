@@ -1,2 +1,9 @@
-# goit-neo-react-hw-module3
-Homework. Phone book. Work with forms in React. Formik.
+# React + Vite
+
+Phonebook. Work with forms and formik.
+
+To run a project in a dev mode:
+
+npm install
+
+npm run dev
